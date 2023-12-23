@@ -1,6 +1,6 @@
 ## lodom/com
 
-Lodom Creations kurumsal web sitesinin geliştirildiği repository'e hoş geldiniz!
+Lodom Creations kurumsal web sitesinin geliştirildiği Repository'e hoş geldiniz!
 
 ### Dallar
 
